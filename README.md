@@ -8,7 +8,7 @@ Estruture as seguintes queries de SQL:
 5) Escreva uma query que retorne o primeiro pedido de cada um dos clientes.
 
 <p>Material necessário: relação de tabelas em planilha.
-<p>Linguaguem utiulizada: Oracle SQL.
+<p>Linguaguem utilizada: Oracle SQL.
 
 ### 1) Escreva uma query que retorne a receita por nome do cliente, ordenada da maior para a menor.
    
