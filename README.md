@@ -7,8 +7,8 @@ Estruture as seguintes queries de SQL:
 4) Escreva uma query que retorne somente clientes que tiveram receita maior que 10.000.
 5) Escreva uma query que retorne o primeiro pedido de cada um dos clientes.
 
-Material necessário: relação de tabelas em planilha.
-Linguaguem utiulizada: Oracle SQL.
+<p>Material necessário: relação de tabelas em planilha.
+<p>Linguaguem utiulizada: Oracle SQL.
 
 ### 1) Escreva uma query que retorne a receita por nome do cliente, ordenada da maior para a menor.
    
@@ -19,6 +19,7 @@ Linguaguem utiulizada: Oracle SQL.
 <p>GROUP BY A.NAME  -- Agrupa os resultados por nome de cliente
 <p>ORDER BY RECEITA_TOTAL DESC;  -- Ordena a receita total de cada cliente em ordem decrescente
 
+![1](https://github.com/user-attachments/assets/e1228244-4d1f-4351-a75f-44c7ad3fc489)
 
 ### 2) Escreva uma query que retorne a receita por Filial entre os dias 01/01/2022 e 03/01/2022.
 
