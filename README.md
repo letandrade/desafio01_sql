@@ -1,4 +1,4 @@
-# desafio01_sql
+# Desafio 01: SQL
 
 Estruture as seguintes queries de SQL:
 1) Escreva uma query que retorne a receita por nome do cliente, ordenada da maior para a menor.
